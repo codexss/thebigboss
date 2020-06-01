@@ -1,0 +1,7 @@
+{
+  "name": "thebigboss",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "http://apt.thebigboss.org/$1"}
+  ]
+}
